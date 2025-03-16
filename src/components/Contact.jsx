@@ -38,23 +38,28 @@ function Contact() {
   return (
     <div className="bg-black text-white py-20" id="contact">
       <div className="container mx-auto px-8 md:px-16 lg:px-24">
-        <h2 className="text-4xl font-bold text-center mb-12 text-blue-500">Contact Me</h2>
+<h2 className="text-4xl font-bold text-center mb-12 text-blue-600">Contact Me</h2>
+
         <div className="flex flex-col md:flex-row items-center md:space-x-12">
           <div className="flex-1">
-            <h3 className='text-3xl font-bold bg-clip-text text-blue-500 mb-4'>Let's Talk</h3>
+<h3 className='text-3xl font-bold bg-clip-text text-blue-600 mb-4'>Let's Talk</h3>
+
             <p>I'm open to discussing web development projects or partnership opportunities.</p>
             <div className='mb-4 mt-8'>
-                <FaEnvelope className='inline-block text-blue-500 mr-2'></FaEnvelope>
+<FaEnvelope className='inline-block text-blue-600 mr-2'></FaEnvelope>
+
                 <a href="tyronekariuki@gmail.com" className='hover:underline'>
                     tyronekariuki@gmail.com
                 </a>
             </div>
             <div className='mb-4'>
-                <FaPhone className='inline-block text-blue-500 mr-2'></FaPhone>
+<FaPhone className='inline-block text-blue-600 mr-2'></FaPhone>
+
                 <span>0706915524</span>
             </div>
             <div className='mb-4'>
-                <FaMapMarkedAlt className='inline-block text-blue-500 mr-2'></FaMapMarkedAlt>
+<FaMapMarkedAlt className='inline-block text-blue-600 mr-2'></FaMapMarkedAlt>
+
                 <span>Nairobi,Kenya</span>
             </div>
           </div>

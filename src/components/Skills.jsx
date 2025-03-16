@@ -13,7 +13,8 @@ const skills = [
 function Skills() {
     return (
         <div className="bg-black text-white py-20" id="skills">
-            <h3 className="text-4xl font-bold text-center mb-12 text-blue-500">My Skills</h3>
+<h3 className="text-4xl font-bold text-center mb-12 text-blue-600">My Skills</h3>
+
             <div className="flex flex-wrap justify-center">
                 {skills.map((skill) => (
                     <div key={skill.name} className="relative m-8">

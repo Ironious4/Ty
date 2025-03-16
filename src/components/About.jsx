@@ -4,7 +4,7 @@ function About() {
   return (
     <div className="bg-black text-white py-20" id="about">
       <div className="container mx-auto px-8 md:px-16 lg:px-24">
-        <h2 className="text-4xl font-bold text-center mb-12 text-blue-500">About Me</h2>
+        <h2 className="text-4xl font-bold text-center mb-12 text-blue-600">About Me</h2>
         <div className="flex flex-col md:flex-row items-center md:space-x-12">
           <img
             src='./scenery.jpg'
@@ -27,28 +27,25 @@ function About() {
             <p className="text-lg mb-8">
               During my free time, I love doing workouts, travelling, listening to music, watching movies and reading novels(sometimes)
             </p>
-           
-            
             <div className="mt-12 flex justify-between text-center">
                 <div>
-                    <h3 className="text-2xl font-bold text-blue-500">
+                    <h3 className="text-2xl font-bold text-blue-600">
                         1+
                     </h3>
                     <p>Years Experience</p>
                 </div>
                 <div>
-                    <h3 className="text-2xl font-bold text-blue-500">
+                    <h3 className="text-2xl font-bold text-blue-600">
                         3
                     </h3>
                     <p>Languages</p>
                 </div>
                 <div>
-                    <h3 className="text-2xl font-bold text-blue-500">
+                    <h3 className="text-2xl font-bold text-blue-600">
                         2
                     </h3>
                     <p>Frameworks</p>
                 </div>
-                
             </div>
           </div>
         </div>
