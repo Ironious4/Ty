@@ -13,7 +13,7 @@ function Navbar() {
                 <div className="text-2xl font-bold text-blue-600 md:mx-0 mx-auto">Tyrone Ty</div>
                 <div className="relative">
                     <button onClick={toggleDropdown} className="bg-blue-600 text-white-800 py-2 px-4 rounded hover:bg-blue-700">
-                        Access Links
+                        Links
                     </button>
                     {isOpen && (
                        <div className="absolute bg-blue-900 text-white mt-2 rounded shadow-lg">
