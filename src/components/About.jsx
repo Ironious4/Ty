@@ -30,21 +30,21 @@ function About() {
             <div className="mt-12 flex justify-between text-center">
                 <div>
                     <h3 className="text-2xl font-bold text-blue-600">
-                        1+
-                    </h3>
-                    <p>Years Experience</p>
-                </div>
-                <div>
-                    <h3 className="text-2xl font-bold text-blue-600">
                         3
                     </h3>
                     <p>Languages</p>
                 </div>
                 <div>
                     <h3 className="text-2xl font-bold text-blue-600">
-                        2
+                        8+
                     </h3>
-                    <p>Frameworks</p>
+                    <p>Projects completed</p>
+                </div>
+                <div>
+                    <h3 className="text-2xl font-bold text-blue-600">
+                        1+
+                    </h3>
+                    <p>Years experience</p>
                 </div>
             </div>
           </div>
