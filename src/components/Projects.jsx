@@ -12,31 +12,53 @@ function Projects() {
         {
           id: 2,
           name: "Next Watch",
-          technologies: "React JS",
+          technologies: "React",
           image: "NextWatch.png",
           github: "https://next-watch-mu.vercel.app/",
         },
         {
           id: 3,
           name: "Bot Battlr",
-          technologies: "React JS",
+          technologies: "React",
           image: "bots2.png",
           github: "https://bots-challenge-amber.vercel.app/",
         },
         {
           id:4,
           name: "Royal Bank of Flatiron",
-          technologies: "React JS",
+          technologies: "React",
           image: "bank.png",
           github: "https://challenge-1-bank-of-flatiron-ruddy.vercel.app/"
         },
         {
           id:5,
           name: "Bookatopia",
-          technologies: "React JS",
+          technologies: "React",
           image: "book.png",
           github: "https://bookatopia.vercel.app/Discover"
+        },
+        {
+          id:6,
+          name: "SupaCell",
+          technologies: "React, Flask",
+          image: "supacell.png",
+          github: "https://supa-cell-frontend.vercel.app"
+        },
+        {
+          id:7,
+          name: "PizzaFace",
+          technologies: "React, Flask",
+          image: "pizzaface.png",
+          github: "https://pizza-face-frontend.vercel.app"
+        },
+        {
+          id:8,
+          name: "Matwana Logistics Parcel Tracking System",
+          technologies: "React, Flask",
+          image: "matwana.png",
+          github: "https://pts-frontend.vercel.app"
         }
+
       ];
 
     return (
