@@ -69,10 +69,11 @@ function Projects() {
           id:10,
           name:"HorizonStay",
           technologies:"React, Tailwind CSS",
-          iamge:"hotel.png",
+          image:"hotel.png",
           github:"https://horizon-stay-lovat.vercel.app"
         }
 
+      
       ];
 
     return (

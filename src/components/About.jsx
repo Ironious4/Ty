@@ -36,7 +36,7 @@ function About() {
                 </div>
                 <div>
                     <h3 className="text-2xl font-bold text-blue-600">
-                        8+
+                        10+
                     </h3>
                     <p>Projects completed</p>
                 </div>
