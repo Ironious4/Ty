@@ -16,8 +16,8 @@ function About() {
               Hi there, Tyrone here. So here is the deal, currently at 23 years old, I am a youngster diving into the deep world of tech.
             </p>
             <p className="text-lg mb-8">
-              Once upon a time, I was into business and management but I soon shifted into tech due to my passion for contributing to solving real world problems.
-              I noticed how much software programs and tech solutions as a whole have positively impacted lives of so many people around the globe and I decided that I wanted to be a part of it.
+              Once upon a time, I was into business and management but I soon shifted into tech since I was looking for a different kind of adventure full of thrill and adrenaline rush.
+              I found software engineering more impsctful, interesting and challenging therefore I knew this kind of adventure would take me on a wild ride.
               Through my education in Software Engineering in Moringa school, I have been impressed by the technical and soft skills that I have gained. 
             </p>
             <p className="text-lg mb-8">

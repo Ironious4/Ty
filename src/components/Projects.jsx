@@ -12,7 +12,7 @@ function Projects() {
         {
           id: 2,
           name: "Next Watch",
-          technologies: "React",
+          technologies: "React, Tailwind CSS",
           image: "NextWatch.png",
           github: "https://next-watch-mu.vercel.app/",
         },
@@ -57,6 +57,20 @@ function Projects() {
           technologies: "React, Flask",
           image: "matwana.png",
           github: "https://pts-frontend.vercel.app"
+        },
+        {
+          id:9,
+          name:"PlotTopia",
+          technologies:"React, Tailwind CSS",
+          image:"plot.png",
+          github:"https://plot-topia.vercel.app"
+        },
+        {
+          id:10,
+          name:"HorizonStay",
+          technologies:"React, Tailwind CSS",
+          iamge:"hotel.png",
+          github:"https://horizon-stay-lovat.vercel.app"
         }
 
       ];
